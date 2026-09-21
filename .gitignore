@@ -1,0 +1,29 @@
+# Secrets et environnements Python
+.venv/
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node / Expo
+node_modules/
+mobile/node_modules/
+.expo/
+mobile/.expo/
+dist/
+web-build/
+
+# Logs et outils locaux
+logs/
+*.log
+.idea/
+.vscode/
+.DS_Store
