@@ -354,3 +354,6 @@ Le fichier `.gitignore` exclut notamment les fichiers `.env`, les environnements
 virtuels, `node_modules`, les caches Python/Expo et les journaux. Les artefacts
 LSTM présents dans `models/` restent nécessaires à l'exécution du Forecast
 Agent et ne doivent pas être exclus.
+=======
+# ai-business-intelligence
+Assistant BI multi-agents avec FastAPI, PostgreSQL, Ollama, LSTM et React Native.
